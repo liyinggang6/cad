@@ -1,0 +1,13 @@
+wxPython
+pyautocad
+openpyxl
+xlwings
+pymysql
+requests
+numpy
+mayavi
+pywin32
+comtypes
+Pillow
+matplotlib
+pyinstaller
